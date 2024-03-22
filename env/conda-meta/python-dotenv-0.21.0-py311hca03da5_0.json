@@ -1,0 +1,255 @@
+{
+  "build": "py311hca03da5_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-arm64",
+  "constrains": [],
+  "depends": [
+    "click >=5.0",
+    "python >=3.11,<3.12.0a0"
+  ],
+  "extracted_package_dir": "/Users/Peizhi/anaconda3/pkgs/python-dotenv-0.21.0-py311hca03da5_0",
+  "files": [
+    "bin/dotenv",
+    "lib/python3.11/site-packages/dotenv/__init__.py",
+    "lib/python3.11/site-packages/dotenv/__main__.py",
+    "lib/python3.11/site-packages/dotenv/__pycache__/__init__.cpython-311.pyc",
+    "lib/python3.11/site-packages/dotenv/__pycache__/__main__.cpython-311.pyc",
+    "lib/python3.11/site-packages/dotenv/__pycache__/cli.cpython-311.pyc",
+    "lib/python3.11/site-packages/dotenv/__pycache__/ipython.cpython-311.pyc",
+    "lib/python3.11/site-packages/dotenv/__pycache__/main.cpython-311.pyc",
+    "lib/python3.11/site-packages/dotenv/__pycache__/parser.cpython-311.pyc",
+    "lib/python3.11/site-packages/dotenv/__pycache__/variables.cpython-311.pyc",
+    "lib/python3.11/site-packages/dotenv/__pycache__/version.cpython-311.pyc",
+    "lib/python3.11/site-packages/dotenv/cli.py",
+    "lib/python3.11/site-packages/dotenv/ipython.py",
+    "lib/python3.11/site-packages/dotenv/main.py",
+    "lib/python3.11/site-packages/dotenv/parser.py",
+    "lib/python3.11/site-packages/dotenv/py.typed",
+    "lib/python3.11/site-packages/dotenv/variables.py",
+    "lib/python3.11/site-packages/dotenv/version.py",
+    "lib/python3.11/site-packages/python_dotenv-0.21.0.dist-info/INSTALLER",
+    "lib/python3.11/site-packages/python_dotenv-0.21.0.dist-info/LICENSE",
+    "lib/python3.11/site-packages/python_dotenv-0.21.0.dist-info/METADATA",
+    "lib/python3.11/site-packages/python_dotenv-0.21.0.dist-info/RECORD",
+    "lib/python3.11/site-packages/python_dotenv-0.21.0.dist-info/REQUESTED",
+    "lib/python3.11/site-packages/python_dotenv-0.21.0.dist-info/WHEEL",
+    "lib/python3.11/site-packages/python_dotenv-0.21.0.dist-info/direct_url.json",
+    "lib/python3.11/site-packages/python_dotenv-0.21.0.dist-info/entry_points.txt",
+    "lib/python3.11/site-packages/python_dotenv-0.21.0.dist-info/top_level.txt"
+  ],
+  "fn": "python-dotenv-0.21.0-py311hca03da5_0.conda",
+  "legacy_bz2_md5": "358483d2f109fc8ffe41a1423deae155",
+  "legacy_bz2_size": 40965,
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "/Users/Peizhi/anaconda3/pkgs/python-dotenv-0.21.0-py311hca03da5_0",
+    "type": 1
+  },
+  "md5": "33bf85a845d62144876f4733ff018552",
+  "name": "python-dotenv",
+  "package_tarball_full_path": "/Users/Peizhi/anaconda3/pkgs/python-dotenv-0.21.0-py311hca03da5_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "bin/dotenv",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/Users/cbousseau/work/recipes/ci_py311/python-dotenv_1677924884036/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_p",
+        "sha256": "63152350df361f963f26d054cbb4348084e81f69a5e28c9f9792e2ec846079c8",
+        "sha256_in_prefix": "cc2c833c2c80519702c62e793e358a63a683207cb70f5d44df3abaf26235e386",
+        "size_in_bytes": 461
+      },
+      {
+        "_path": "lib/python3.11/site-packages/dotenv/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "6dd00669a04039cfc7caaab2f143958de7490e050da8c4cb966a9c3ab302742f",
+        "sha256_in_prefix": "6dd00669a04039cfc7caaab2f143958de7490e050da8c4cb966a9c3ab302742f",
+        "size_in_bytes": 1298
+      },
+      {
+        "_path": "lib/python3.11/site-packages/dotenv/__main__.py",
+        "path_type": "hardlink",
+        "sha256": "3744612c6ee71c8aad9491f0c1ea48a3ecdb24f371f6c7b0082446639dbc87fe",
+        "sha256_in_prefix": "3744612c6ee71c8aad9491f0c1ea48a3ecdb24f371f6c7b0082446639dbc87fe",
+        "size_in_bytes": 129
+      },
+      {
+        "_path": "lib/python3.11/site-packages/dotenv/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "9f7a863a9a6c92dd179cd8fd0b17ee6a8f7575f631a25795a24817b0327ad928",
+        "sha256_in_prefix": "9f7a863a9a6c92dd179cd8fd0b17ee6a8f7575f631a25795a24817b0327ad928",
+        "size_in_bytes": 1999
+      },
+      {
+        "_path": "lib/python3.11/site-packages/dotenv/__pycache__/__main__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "95eb7455f45a197e8f5612bd70b7d557855c10442d8c58216ff70d89e0ea9b2f",
+        "sha256_in_prefix": "95eb7455f45a197e8f5612bd70b7d557855c10442d8c58216ff70d89e0ea9b2f",
+        "size_in_bytes": 367
+      },
+      {
+        "_path": "lib/python3.11/site-packages/dotenv/__pycache__/cli.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "a67694177d61d6ca66abe40bc3617be127a143164a79d0659007136af38441c6",
+        "sha256_in_prefix": "a67694177d61d6ca66abe40bc3617be127a143164a79d0659007136af38441c6",
+        "size_in_bytes": 9453
+      },
+      {
+        "_path": "lib/python3.11/site-packages/dotenv/__pycache__/ipython.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "0b3e0cbaafdda509c2f8fc5c9edd165a389da076a0ce3da606d6d9464f32e58e",
+        "sha256_in_prefix": "0b3e0cbaafdda509c2f8fc5c9edd165a389da076a0ce3da606d6d9464f32e58e",
+        "size_in_bytes": 2279
+      },
+      {
+        "_path": "lib/python3.11/site-packages/dotenv/__pycache__/main.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "506ba671fd593a4b99a36ce37efcd2631d0d09ef0cdee0329aadd65c9f70895a",
+        "sha256_in_prefix": "506ba671fd593a4b99a36ce37efcd2631d0d09ef0cdee0329aadd65c9f70895a",
+        "size_in_bytes": 18373
+      },
+      {
+        "_path": "lib/python3.11/site-packages/dotenv/__pycache__/parser.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "26e60166d59ce3e9db37c51aee0cd92ca5bb976c7ce6977f3793fae64475341a",
+        "sha256_in_prefix": "26e60166d59ce3e9db37c51aee0cd92ca5bb976c7ce6977f3793fae64475341a",
+        "size_in_bytes": 10981
+      },
+      {
+        "_path": "lib/python3.11/site-packages/dotenv/__pycache__/variables.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "6a02d0ed5c00654474d6860f0614d13ac1d30a1374315b9a146fab1ca4e35142",
+        "sha256_in_prefix": "6a02d0ed5c00654474d6860f0614d13ac1d30a1374315b9a146fab1ca4e35142",
+        "size_in_bytes": 5596
+      },
+      {
+        "_path": "lib/python3.11/site-packages/dotenv/__pycache__/version.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "249fee052ffeadf01dd270615476da7657095805a2e353a4b883e27447d3f7ae",
+        "sha256_in_prefix": "249fee052ffeadf01dd270615476da7657095805a2e353a4b883e27447d3f7ae",
+        "size_in_bytes": 176
+      },
+      {
+        "_path": "lib/python3.11/site-packages/dotenv/cli.py",
+        "path_type": "hardlink",
+        "sha256": "007acc80ca3f4eb0d8cb2620eece14fa6d871a933b84398e02d77ff647446528",
+        "sha256_in_prefix": "007acc80ca3f4eb0d8cb2620eece14fa6d871a933b84398e02d77ff647446528",
+        "size_in_bytes": 5383
+      },
+      {
+        "_path": "lib/python3.11/site-packages/dotenv/ipython.py",
+        "path_type": "hardlink",
+        "sha256": "6af23a69ecff4719c1a6d62072122ab85d934a0288f863a1637a698aedd5b961",
+        "sha256_in_prefix": "6af23a69ecff4719c1a6d62072122ab85d934a0288f863a1637a698aedd5b961",
+        "size_in_bytes": 1303
+      },
+      {
+        "_path": "lib/python3.11/site-packages/dotenv/main.py",
+        "path_type": "hardlink",
+        "sha256": "438364ba12ff8bb0b0935940bae149e3e12ad0cc7ac04dab96d63ac094f6c2ea",
+        "sha256_in_prefix": "438364ba12ff8bb0b0935940bae149e3e12ad0cc7ac04dab96d63ac094f6c2ea",
+        "size_in_bytes": 11926
+      },
+      {
+        "_path": "lib/python3.11/site-packages/dotenv/parser.py",
+        "path_type": "hardlink",
+        "sha256": "1cc074555cbf7de8ccb8667f15d8a0ce59ff74113d9ec000699ee8970a00652c",
+        "sha256_in_prefix": "1cc074555cbf7de8ccb8667f15d8a0ce59ff74113d9ec000699ee8970a00652c",
+        "size_in_bytes": 5298
+      },
+      {
+        "_path": "lib/python3.11/site-packages/dotenv/py.typed",
+        "path_type": "hardlink",
+        "sha256": "f0f8f2675695a10a5156fb7bd66bafbaae6a13e8d315990af862c792175e6e67",
+        "sha256_in_prefix": "f0f8f2675695a10a5156fb7bd66bafbaae6a13e8d315990af862c792175e6e67",
+        "size_in_bytes": 26
+      },
+      {
+        "_path": "lib/python3.11/site-packages/dotenv/variables.py",
+        "path_type": "hardlink",
+        "sha256": "1edbd830e3b2ca8806199bfe6241b378c38ab68befaaa1b387f90807dc6e02da",
+        "sha256_in_prefix": "1edbd830e3b2ca8806199bfe6241b378c38ab68befaaa1b387f90807dc6e02da",
+        "size_in_bytes": 2404
+      },
+      {
+        "_path": "lib/python3.11/site-packages/dotenv/version.py",
+        "path_type": "hardlink",
+        "sha256": "fab78d897af6e67514ede9bbfc8289ce2982235d16e2703ca2ec4088eaf815a4",
+        "sha256_in_prefix": "fab78d897af6e67514ede9bbfc8289ce2982235d16e2703ca2ec4088eaf815a4",
+        "size_in_bytes": 23
+      },
+      {
+        "_path": "lib/python3.11/site-packages/python_dotenv-0.21.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "lib/python3.11/site-packages/python_dotenv-0.21.0.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "d27209ab3d162782a8f8e3872b9b353c49e092c9aa467a64522883407d8d1030",
+        "sha256_in_prefix": "d27209ab3d162782a8f8e3872b9b353c49e092c9aa467a64522883407d8d1030",
+        "size_in_bytes": 4600
+      },
+      {
+        "_path": "lib/python3.11/site-packages/python_dotenv-0.21.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "adddc17731eafbe926fd17429572bf57ed52dbd467010d5e0336a0ed27215965",
+        "sha256_in_prefix": "adddc17731eafbe926fd17429572bf57ed52dbd467010d5e0336a0ed27215965",
+        "size_in_bytes": 20683
+      },
+      {
+        "_path": "lib/python3.11/site-packages/python_dotenv-0.21.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "8527f011b627801c3ca426bbb0bd9bcf3c12b95883e9d3bd285ff17636aba6c6",
+        "sha256_in_prefix": "8527f011b627801c3ca426bbb0bd9bcf3c12b95883e9d3bd285ff17636aba6c6",
+        "size_in_bytes": 1927
+      },
+      {
+        "_path": "lib/python3.11/site-packages/python_dotenv-0.21.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/python3.11/site-packages/python_dotenv-0.21.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "1b5e87e00dc87a84269cead8578b9e6462928e18a95f1f3373c9eef451a5bcc0",
+        "sha256_in_prefix": "1b5e87e00dc87a84269cead8578b9e6462928e18a95f1f3373c9eef451a5bcc0",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "lib/python3.11/site-packages/python_dotenv-0.21.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "489bc7e6f90911f77fb43486d7612033f1e710140ab5d6412dfff1f2f192caee",
+        "sha256_in_prefix": "489bc7e6f90911f77fb43486d7612033f1e710140ab5d6412dfff1f2f192caee",
+        "size_in_bytes": 105
+      },
+      {
+        "_path": "lib/python3.11/site-packages/python_dotenv-0.21.0.dist-info/entry_points.txt",
+        "path_type": "hardlink",
+        "sha256": "c91975ac26ecc1bd6741343f8194650b0e507da6f3b541a77c658b8655c535d2",
+        "sha256_in_prefix": "c91975ac26ecc1bd6741343f8194650b0e507da6f3b541a77c658b8655c535d2",
+        "size_in_bytes": 47
+      },
+      {
+        "_path": "lib/python3.11/site-packages/python_dotenv-0.21.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "7b2a941f848724dafa6a139897122e9d3af85e29c4f19e5a8d62ddacadebd03f",
+        "sha256_in_prefix": "7b2a941f848724dafa6a139897122e9d3af85e29c4f19e5a8d62ddacadebd03f",
+        "size_in_bytes": 7
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "9d563f4392751b3867547b8765e497804b3a0c21fbb00e02fb2b73a6db5e7e4d",
+  "size": 40783,
+  "subdir": "osx-arm64",
+  "timestamp": 1677924902001,
+  "url": "https://repo.anaconda.com/pkgs/main/osx-arm64/python-dotenv-0.21.0-py311hca03da5_0.conda",
+  "version": "0.21.0"
+}

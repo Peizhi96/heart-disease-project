@@ -1,0 +1,36 @@
+{
+  "build": "hca03da5_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-arm64",
+  "constrains": [],
+  "depends": [
+    "aext-assistant 0.4.0",
+    "anaconda-cloud-auth >=0.1.3",
+    "jupyterlab >=3,<5"
+  ],
+  "extracted_package_dir": "/Users/Peizhi/anaconda3/pkgs/anaconda-toolbox-0.4.0-hca03da5_0",
+  "files": [],
+  "fn": "anaconda-toolbox-0.4.0-hca03da5_0.conda",
+  "legacy_bz2_md5": "da2854cbfa064e3e9ca8b7a88a93efe4",
+  "legacy_bz2_size": 3317,
+  "license": "Proprietary",
+  "license_family": "Other",
+  "link": {
+    "source": "/Users/Peizhi/anaconda3/pkgs/anaconda-toolbox-0.4.0-hca03da5_0",
+    "type": 1
+  },
+  "md5": "c2808bcbb0ce59fe58e2639ea275ecf7",
+  "name": "anaconda-toolbox",
+  "package_tarball_full_path": "/Users/Peizhi/anaconda3/pkgs/anaconda-toolbox-0.4.0-hca03da5_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "anaconda-toolbox",
+  "sha256": "236156bd7f879c4a8d2106a8594c3279d2294d0a9c89f5cddb4d0b2781558bcc",
+  "size": 3945,
+  "subdir": "osx-arm64",
+  "timestamp": 1698114756415,
+  "url": "https://repo.anaconda.com/pkgs/main/osx-arm64/anaconda-toolbox-0.4.0-hca03da5_0.conda",
+  "version": "0.4.0"
+}

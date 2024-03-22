@@ -1,0 +1,148 @@
+{
+  "build": "py311h313beb8_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-arm64",
+  "constrains": [],
+  "depends": [
+    "libcxx >=14.0.6",
+    "python >=3.11,<3.12.0a0"
+  ],
+  "extracted_package_dir": "/Users/Peizhi/miniconda3/pkgs/cchardet-2.1.7-py311h313beb8_0",
+  "files": [
+    "bin/cchardetect",
+    "lib/python3.11/site-packages/cchardet-2.1.7.dist-info/COPYING",
+    "lib/python3.11/site-packages/cchardet-2.1.7.dist-info/INSTALLER",
+    "lib/python3.11/site-packages/cchardet-2.1.7.dist-info/METADATA",
+    "lib/python3.11/site-packages/cchardet-2.1.7.dist-info/RECORD",
+    "lib/python3.11/site-packages/cchardet-2.1.7.dist-info/REQUESTED",
+    "lib/python3.11/site-packages/cchardet-2.1.7.dist-info/WHEEL",
+    "lib/python3.11/site-packages/cchardet-2.1.7.dist-info/direct_url.json",
+    "lib/python3.11/site-packages/cchardet-2.1.7.dist-info/top_level.txt",
+    "lib/python3.11/site-packages/cchardet/__init__.py",
+    "lib/python3.11/site-packages/cchardet/__pycache__/__init__.cpython-311.pyc",
+    "lib/python3.11/site-packages/cchardet/__pycache__/version.cpython-311.pyc",
+    "lib/python3.11/site-packages/cchardet/_cchardet.cpython-311-darwin.so",
+    "lib/python3.11/site-packages/cchardet/version.py"
+  ],
+  "fn": "cchardet-2.1.7-py311h313beb8_0.conda",
+  "license": "MPL-1.1 AND GPL-3.0-or-later AND LGPL-2.1-or-later",
+  "link": {
+    "source": "/Users/Peizhi/miniconda3/pkgs/cchardet-2.1.7-py311h313beb8_0",
+    "type": 1
+  },
+  "md5": "ca813320cf2f495cd6e7d1612d133a43",
+  "name": "cchardet",
+  "package_tarball_full_path": "/Users/Peizhi/miniconda3/pkgs/cchardet-2.1.7-py311h313beb8_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "bin/cchardetect",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_30lwi98_em/croot/cchardet_1683046445333/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_place",
+        "sha256": "6bb3c319d82942bbd2b63e6727207a914417e30e65aa20cb32569285684d4b35",
+        "sha256_in_prefix": "2f6758e6357f50239bcb1114bc9a6a9aeb1ee5f09dcc5873496436c3cb664221",
+        "size_in_bytes": 1541
+      },
+      {
+        "_path": "lib/python3.11/site-packages/cchardet-2.1.7.dist-info/COPYING",
+        "path_type": "hardlink",
+        "sha256": "107a29ccdd2d778aa2df5462f85dddfa099059abd22e064e07ec2cc9bafc37cd",
+        "sha256_in_prefix": "107a29ccdd2d778aa2df5462f85dddfa099059abd22e064e07ec2cc9bafc37cd",
+        "size_in_bytes": 70517
+      },
+      {
+        "_path": "lib/python3.11/site-packages/cchardet-2.1.7.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "lib/python3.11/site-packages/cchardet-2.1.7.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "bef489b8841462fc986c8bca27748dc53a15ca5cb09aa712a067b2c05304debe",
+        "sha256_in_prefix": "bef489b8841462fc986c8bca27748dc53a15ca5cb09aa712a067b2c05304debe",
+        "size_in_bytes": 7674
+      },
+      {
+        "_path": "lib/python3.11/site-packages/cchardet-2.1.7.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "a4a2952a4f76d0e7b23ec31e52018de344a400af66e1d9c4146f6848c4dcc590",
+        "sha256_in_prefix": "a4a2952a4f76d0e7b23ec31e52018de344a400af66e1d9c4146f6848c4dcc590",
+        "size_in_bytes": 1104
+      },
+      {
+        "_path": "lib/python3.11/site-packages/cchardet-2.1.7.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/python3.11/site-packages/cchardet-2.1.7.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "57832039d2fc841d0c38d373c845e48ea83a7c24348be313f942088ace1fb8a5",
+        "sha256_in_prefix": "57832039d2fc841d0c38d373c845e48ea83a7c24348be313f942088ace1fb8a5",
+        "size_in_bytes": 110
+      },
+      {
+        "_path": "lib/python3.11/site-packages/cchardet-2.1.7.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "6a7afed70e9e5e876b28f50cf21ed0668d0ef299e019da7ffc255fbe42dc2287",
+        "sha256_in_prefix": "6a7afed70e9e5e876b28f50cf21ed0668d0ef299e019da7ffc255fbe42dc2287",
+        "size_in_bytes": 139
+      },
+      {
+        "_path": "lib/python3.11/site-packages/cchardet-2.1.7.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "2a1825b388ff8a95201ea539263b180ed95812c33bb8fde357ca3566564f49f0",
+        "sha256_in_prefix": "2a1825b388ff8a95201ea539263b180ed95812c33bb8fde357ca3566564f49f0",
+        "size_in_bytes": 9
+      },
+      {
+        "_path": "lib/python3.11/site-packages/cchardet/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e9aee60636502f9e77a9c491c1093376ec785abc6ebf7fc0c344847bfb0ff307",
+        "sha256_in_prefix": "e9aee60636502f9e77a9c491c1093376ec785abc6ebf7fc0c344847bfb0ff307",
+        "size_in_bytes": 1161
+      },
+      {
+        "_path": "lib/python3.11/site-packages/cchardet/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "ae211456d2075f0d7ff7a6ac65ecdec772455b15b2c8ea2d7d9ad57151911972",
+        "sha256_in_prefix": "ae211456d2075f0d7ff7a6ac65ecdec772455b15b2c8ea2d7d9ad57151911972",
+        "size_in_bytes": 2908
+      },
+      {
+        "_path": "lib/python3.11/site-packages/cchardet/__pycache__/version.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "8f56c88e6eb9a89ef56348816e5e88c5f921e9c0db8a2370947b29775bc1816e",
+        "sha256_in_prefix": "8f56c88e6eb9a89ef56348816e5e88c5f921e9c0db8a2370947b29775bc1816e",
+        "size_in_bytes": 177
+      },
+      {
+        "_path": "lib/python3.11/site-packages/cchardet/_cchardet.cpython-311-darwin.so",
+        "path_type": "hardlink",
+        "sha256": "65376dcd712c6bd096670e004ac0b03fad832d4b30ead194fa4a0eb09bd9d557",
+        "sha256_in_prefix": "65376dcd712c6bd096670e004ac0b03fad832d4b30ead194fa4a0eb09bd9d557",
+        "size_in_bytes": 272064
+      },
+      {
+        "_path": "lib/python3.11/site-packages/cchardet/version.py",
+        "path_type": "hardlink",
+        "sha256": "827db8784f87f4f85c2b1b196061a3333947649d0e59865f9bca7dc7b26fa6ca",
+        "sha256_in_prefix": "827db8784f87f4f85c2b1b196061a3333947649d0e59865f9bca7dc7b26fa6ca",
+        "size_in_bytes": 22
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "cchardet",
+  "sha256": "e5dc8517b12610892fb1cae619418ca8f2c48d9ef69ae5c50de053b51a60b06f",
+  "size": 126493,
+  "subdir": "osx-arm64",
+  "timestamp": 1683046549000,
+  "url": "https://repo.anaconda.com/pkgs/main/osx-arm64/cchardet-2.1.7-py311h313beb8_0.conda",
+  "version": "2.1.7"
+}

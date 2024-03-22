@@ -1,0 +1,124 @@
+{
+  "build": "py311hca03da5_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-arm64",
+  "constrains": [],
+  "depends": [
+    "python >=3.11,<3.12.0a0"
+  ],
+  "extracted_package_dir": "/Users/Peizhi/anaconda3/pkgs/pkce-1.0.3-py311hca03da5_0",
+  "files": [
+    "lib/python3.11/site-packages/pkce-1.0.3.dist-info/INSTALLER",
+    "lib/python3.11/site-packages/pkce-1.0.3.dist-info/LICENSE",
+    "lib/python3.11/site-packages/pkce-1.0.3.dist-info/METADATA",
+    "lib/python3.11/site-packages/pkce-1.0.3.dist-info/RECORD",
+    "lib/python3.11/site-packages/pkce-1.0.3.dist-info/REQUESTED",
+    "lib/python3.11/site-packages/pkce-1.0.3.dist-info/WHEEL",
+    "lib/python3.11/site-packages/pkce-1.0.3.dist-info/direct_url.json",
+    "lib/python3.11/site-packages/pkce-1.0.3.dist-info/top_level.txt",
+    "lib/python3.11/site-packages/pkce/__init__.py",
+    "lib/python3.11/site-packages/pkce/__pycache__/__init__.cpython-311.pyc",
+    "lib/python3.11/site-packages/pkce/py.typed"
+  ],
+  "fn": "pkce-1.0.3-py311hca03da5_0.conda",
+  "legacy_bz2_md5": "f7904c86210f790d238002941a304afb",
+  "legacy_bz2_size": 9776,
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "/Users/Peizhi/anaconda3/pkgs/pkce-1.0.3-py311hca03da5_0",
+    "type": 1
+  },
+  "md5": "6c4b1dc97a66f4f8a939e9e30fcb1d0a",
+  "name": "pkce",
+  "package_tarball_full_path": "/Users/Peizhi/anaconda3/pkgs/pkce-1.0.3-py311hca03da5_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.11/site-packages/pkce-1.0.3.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pkce-1.0.3.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "103b5b0eb1f668e32238e43d70529b56782b50ca3fb3c15e22725b692fc707ea",
+        "sha256_in_prefix": "103b5b0eb1f668e32238e43d70529b56782b50ca3fb3c15e22725b692fc707ea",
+        "size_in_bytes": 1093
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pkce-1.0.3.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "e925292499dc6b46e71fedd58978ffacaf4d65418dcc70d906adbf252e2db4a2",
+        "sha256_in_prefix": "e925292499dc6b46e71fedd58978ffacaf4d65418dcc70d906adbf252e2db4a2",
+        "size_in_bytes": 986
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pkce-1.0.3.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "ed600b3d5a64624b417fc5e6f747bb0f5c8bb065f1831f1103a5613db23f1375",
+        "sha256_in_prefix": "ed600b3d5a64624b417fc5e6f747bb0f5c8bb065f1831f1103a5613db23f1375",
+        "size_in_bytes": 824
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pkce-1.0.3.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pkce-1.0.3.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "db07a93359e4e034b8785a58ad6d534ea3dca0635f1e184efe2e66e1c3a299ba",
+        "sha256_in_prefix": "db07a93359e4e034b8785a58ad6d534ea3dca0635f1e184efe2e66e1c3a299ba",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pkce-1.0.3.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "46d0f35eee9057b2d80bc1c54009451ba9c356441cd4b4eea852147bb7c2d4e0",
+        "sha256_in_prefix": "46d0f35eee9057b2d80bc1c54009451ba9c356441cd4b4eea852147bb7c2d4e0",
+        "size_in_bytes": 135
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pkce-1.0.3.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "5c75817b6ecf59ec4e59e2cd0af1f69217e19c5afaece453b8a998ea33a98c71",
+        "sha256_in_prefix": "5c75817b6ecf59ec4e59e2cd0af1f69217e19c5afaece453b8a998ea33a98c71",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pkce/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "c6274195d91384cc5fe48831b648f2efcd83d371906b018b73a34afd04e92ef5",
+        "sha256_in_prefix": "c6274195d91384cc5fe48831b648f2efcd83d371906b018b73a34afd04e92ef5",
+        "size_in_bytes": 2761
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pkce/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "26a0d7289a73d8283e6dcc1951f8399e4fb60dc0b44c235f3cc080f57505912b",
+        "sha256_in_prefix": "26a0d7289a73d8283e6dcc1951f8399e4fb60dc0b44c235f3cc080f57505912b",
+        "size_in_bytes": 3691
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pkce/py.typed",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "4775aed1f9f4fc088df0942d2ce592a0a99395ed02c4f7ad8b653a510fb26241",
+  "size": 10178,
+  "subdir": "osx-arm64",
+  "timestamp": 1690384924590,
+  "url": "https://repo.anaconda.com/pkgs/main/osx-arm64/pkce-1.0.3-py311hca03da5_0.conda",
+  "version": "1.0.3"
+}

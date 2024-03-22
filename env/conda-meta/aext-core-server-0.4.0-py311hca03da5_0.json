@@ -1,0 +1,144 @@
+{
+  "build": "py311hca03da5_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-arm64",
+  "constrains": [],
+  "depends": [
+    "aext-shared 0.4.0",
+    "jupyterlab >=3,<5",
+    "jupyterlab_server >=1.18.0,<3",
+    "python >=3.11,<3.12.0a0",
+    "tornado"
+  ],
+  "extracted_package_dir": "/Users/Peizhi/anaconda3/pkgs/aext-core-server-0.4.0-py311hca03da5_0",
+  "files": [
+    "lib/python3.11/site-packages/aext_core_server-0.4.0.dist-info/INSTALLER",
+    "lib/python3.11/site-packages/aext_core_server-0.4.0.dist-info/METADATA",
+    "lib/python3.11/site-packages/aext_core_server-0.4.0.dist-info/RECORD",
+    "lib/python3.11/site-packages/aext_core_server-0.4.0.dist-info/REQUESTED",
+    "lib/python3.11/site-packages/aext_core_server-0.4.0.dist-info/WHEEL",
+    "lib/python3.11/site-packages/aext_core_server-0.4.0.dist-info/direct_url.json",
+    "lib/python3.11/site-packages/aext_core_server-0.4.0.dist-info/licenses/LICENSE",
+    "lib/python3.11/site-packages/aext_core_server/__about__.py",
+    "lib/python3.11/site-packages/aext_core_server/__init__.py",
+    "lib/python3.11/site-packages/aext_core_server/__pycache__/__about__.cpython-311.pyc",
+    "lib/python3.11/site-packages/aext_core_server/__pycache__/__init__.cpython-311.pyc",
+    "lib/python3.11/site-packages/aext_core_server/__pycache__/handlers.cpython-311.pyc",
+    "lib/python3.11/site-packages/aext_core_server/handlers.py"
+  ],
+  "fn": "aext-core-server-0.4.0-py311hca03da5_0.conda",
+  "legacy_bz2_md5": "e1a7e2ed96fd263682a3dd95895b086a",
+  "legacy_bz2_size": 8888,
+  "license": "Proprietary",
+  "license_family": "Other",
+  "link": {
+    "source": "/Users/Peizhi/anaconda3/pkgs/aext-core-server-0.4.0-py311hca03da5_0",
+    "type": 1
+  },
+  "md5": "1d05208fd41045df89c78c1835acde5a",
+  "name": "aext-core-server",
+  "package_tarball_full_path": "/Users/Peizhi/anaconda3/pkgs/aext-core-server-0.4.0-py311hca03da5_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.11/site-packages/aext_core_server-0.4.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "lib/python3.11/site-packages/aext_core_server-0.4.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "b6f6b252aed4f7ef744fe2195705a49381c1e62ca2eb9cb1b6c8f73599776914",
+        "sha256_in_prefix": "b6f6b252aed4f7ef744fe2195705a49381c1e62ca2eb9cb1b6c8f73599776914",
+        "size_in_bytes": 860
+      },
+      {
+        "_path": "lib/python3.11/site-packages/aext_core_server-0.4.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "42b20fc19b88b6aad3aaaa122f6b2d649e0f447db60670ba53eee6a8689b72db",
+        "sha256_in_prefix": "42b20fc19b88b6aad3aaaa122f6b2d649e0f447db60670ba53eee6a8689b72db",
+        "size_in_bytes": 1069
+      },
+      {
+        "_path": "lib/python3.11/site-packages/aext_core_server-0.4.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/python3.11/site-packages/aext_core_server-0.4.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "f5006e1e183a14d5bb969a5ba05daf2956c2193573b05ca48114238e56a3ae10",
+        "sha256_in_prefix": "f5006e1e183a14d5bb969a5ba05daf2956c2193573b05ca48114238e56a3ae10",
+        "size_in_bytes": 87
+      },
+      {
+        "_path": "lib/python3.11/site-packages/aext_core_server-0.4.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "55e493a2353ea3fd4c44f1de3caafb2fc3c61011031c5c3f4451ce588814c91a",
+        "sha256_in_prefix": "55e493a2353ea3fd4c44f1de3caafb2fc3c61011031c5c3f4451ce588814c91a",
+        "size_in_bytes": 164
+      },
+      {
+        "_path": "lib/python3.11/site-packages/aext_core_server-0.4.0.dist-info/licenses/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "281e899162ba11a8ff6b34e48475f45785b1965f97d24f2328ca61d5fde8d4f3",
+        "sha256_in_prefix": "281e899162ba11a8ff6b34e48475f45785b1965f97d24f2328ca61d5fde8d4f3",
+        "size_in_bytes": 432
+      },
+      {
+        "_path": "lib/python3.11/site-packages/aext_core_server/__about__.py",
+        "path_type": "hardlink",
+        "sha256": "0cc0511cf13c7c7cb42e83476e59ca73e58e803c816ddba1f523c9981548ceec",
+        "sha256_in_prefix": "0cc0511cf13c7c7cb42e83476e59ca73e58e803c816ddba1f523c9981548ceec",
+        "size_in_bytes": 100
+      },
+      {
+        "_path": "lib/python3.11/site-packages/aext_core_server/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "a14616ff7254bd048bf3395930e05373238ef7856e3b87387bde29e039181f0c",
+        "sha256_in_prefix": "a14616ff7254bd048bf3395930e05373238ef7856e3b87387bde29e039181f0c",
+        "size_in_bytes": 111
+      },
+      {
+        "_path": "lib/python3.11/site-packages/aext_core_server/__pycache__/__about__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "edfdc998d3debd78b47e9cda143a53a5dfaa1f77e2c6f4a7e1a1ddac606c35a0",
+        "sha256_in_prefix": "edfdc998d3debd78b47e9cda143a53a5dfaa1f77e2c6f4a7e1a1ddac606c35a0",
+        "size_in_bytes": 187
+      },
+      {
+        "_path": "lib/python3.11/site-packages/aext_core_server/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "a5a53fe096e1f65e5af978c184f9980020baab3de3aa64f93630937c9c630250",
+        "sha256_in_prefix": "a5a53fe096e1f65e5af978c184f9980020baab3de3aa64f93630937c9c630250",
+        "size_in_bytes": 223
+      },
+      {
+        "_path": "lib/python3.11/site-packages/aext_core_server/__pycache__/handlers.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "32bc38a7fd0250a848520a8e397522e63825ed149a0bf9e22c571952d02a04b9",
+        "sha256_in_prefix": "32bc38a7fd0250a848520a8e397522e63825ed149a0bf9e22c571952d02a04b9",
+        "size_in_bytes": 3406
+      },
+      {
+        "_path": "lib/python3.11/site-packages/aext_core_server/handlers.py",
+        "path_type": "hardlink",
+        "sha256": "c5e506e6fc7ef43cb38823e2eb9c591d257c67757c521a5718ed4f06d7ac0ce5",
+        "sha256_in_prefix": "c5e506e6fc7ef43cb38823e2eb9c591d257c67757c521a5718ed4f06d7ac0ce5",
+        "size_in_bytes": 1918
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "b22295af0f763c26e3ab2fc9313b3ce51f34bbc7d8806739a46cfe1ca3bcdfa6",
+  "size": 9343,
+  "subdir": "osx-arm64",
+  "timestamp": 1698098126335,
+  "url": "https://repo.anaconda.com/pkgs/main/osx-arm64/aext-core-server-0.4.0-py311hca03da5_0.conda",
+  "version": "0.4.0"
+}
